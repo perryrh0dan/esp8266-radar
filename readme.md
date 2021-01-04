@@ -10,6 +10,10 @@
 - [Team](#team)
 - [License](#license)
 
+## Dependency
+
+The MQTT communication depends on the PubSubClient Library (https://github.com/knolleary/pubsubclient).
+
 ## Install
 
 ## Development
