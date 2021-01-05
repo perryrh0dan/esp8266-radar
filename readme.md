@@ -12,7 +12,8 @@
 
 ## Dependency
 
-The MQTT communication depends on the PubSubClient Library (https://github.com/knolleary/pubsubclient).
+- EspHomeClient Library (http://github.com/perryrh0dan/esphomeclient)
+- PubSubClient Library (https://github.com/knolleary/pubsubclient).
 
 ## Install
 
